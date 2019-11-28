@@ -1,0 +1,11 @@
+D:\akademia\1zajecia\bin\Debug\netcoreapp3.0\1zajecia.exe
+D:\akademia\1zajecia\bin\Debug\netcoreapp3.0\1zajecia.deps.json
+D:\akademia\1zajecia\bin\Debug\netcoreapp3.0\1zajecia.runtimeconfig.json
+D:\akademia\1zajecia\bin\Debug\netcoreapp3.0\1zajecia.runtimeconfig.dev.json
+D:\akademia\1zajecia\bin\Debug\netcoreapp3.0\1zajecia.dll
+D:\akademia\1zajecia\bin\Debug\netcoreapp3.0\1zajecia.pdb
+D:\akademia\1zajecia\obj\Debug\netcoreapp3.0\1zajecia.csprojAssemblyReference.cache
+D:\akademia\1zajecia\obj\Debug\netcoreapp3.0\1zajecia.AssemblyInfoInputs.cache
+D:\akademia\1zajecia\obj\Debug\netcoreapp3.0\1zajecia.AssemblyInfo.cs
+D:\akademia\1zajecia\obj\Debug\netcoreapp3.0\1zajecia.dll
+D:\akademia\1zajecia\obj\Debug\netcoreapp3.0\1zajecia.pdb

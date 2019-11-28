@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\akademia\\1zajecia\\1zajecia.csproj": {}
+  },
+  "projects": {
+    "D:\\akademia\\1zajecia\\1zajecia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\akademia\\1zajecia\\1zajecia.csproj",
+        "projectName": "1zajecia",
+        "projectPath": "D:\\akademia\\1zajecia\\1zajecia.csproj",
+        "packagesPath": "C:\\Users\\Paweł\\.nuget\\packages\\",
+        "outputPath": "D:\\akademia\\1zajecia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Paweł\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
